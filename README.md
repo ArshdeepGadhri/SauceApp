@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```coffee
-python3 ...src/base.py
+python3 base.py
 ```
 
 ## Contributing
