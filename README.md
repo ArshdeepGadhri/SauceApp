@@ -4,7 +4,7 @@ A simple python web app to search for an Anime using an Image
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the needed modules.
 
 ```bash
 pip install -r requirements.txt
